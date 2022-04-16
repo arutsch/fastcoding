@@ -1,7 +1,7 @@
 # fastcoding
 Write your Arduino code a lot faster with the fastcoding library.
 
-Note: This library is under development.
+
 
 # Functions
 # fast.OU();
