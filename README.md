@@ -15,3 +15,5 @@ is the short version of "digitalWrite(pin, HIGH);"
 
 # fast.LO();
 is the short version of "digitalWrite(pin, LOW);"
+
+Just import the zip file as a library in the Arduino IDE
